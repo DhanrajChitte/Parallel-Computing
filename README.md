@@ -1,2 +1,2 @@
 # Parallel-Computing
-Parallel Computing Practice Codes
+   This Repository Contents the Parallel Computing Codes in C language.
